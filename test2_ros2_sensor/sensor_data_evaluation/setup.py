@@ -15,7 +15,7 @@ setup(
     install_requires=['setuptools'],
     zip_safe=True,
     maintainer='Sun',
-    maintainer_email='your@email.com',
+    maintainer_email='sundaybernkpokpo@gmail.com',
     description='ROS2 package for TRC25 test 2',
     license='MIT',
     tests_require=['pytest'],
